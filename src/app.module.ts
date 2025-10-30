@@ -10,7 +10,7 @@ import { ConfigModule } from '@nestjs/config';
 @Module({
   imports: [
     MongooseModule.forRoot(
-      'mongodb+srv://user01:pQkkadCUd6dpgrvk@cluster0.ifhopub.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+      '"Your Mongo DB URL"',
     ),
     ConfigModule.forRoot({
       isGlobal: true,
