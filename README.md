@@ -198,7 +198,7 @@ This project is licensed under the **MIT License** — free to use and modify.
 
 **Sujalsingh Rathod**
 🚀 Full Stack Developer
-📧 [Email](mailto:your-email@example.com)
+📧 [Email](mailto:sujalsinhrathod@gmail.com)
 🌐 [GitHub](https://github.com/HACKEERSUJAL)
 
 ---
