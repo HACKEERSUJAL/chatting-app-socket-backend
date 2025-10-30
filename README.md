@@ -197,7 +197,7 @@ This project is licensed under the **MIT License** — free to use and modify.
 ## 👨‍💻 Author
 
 **Sujalsingh Rathod**
-🚀 Full Stack Developer | 💬 Real-time Apps & WebRTC Enthusiast
+🚀 Full Stack Developer
 📧 [Email](mailto:your-email@example.com)
 🌐 [GitHub](https://github.com/HACKEERSUJAL)
 
