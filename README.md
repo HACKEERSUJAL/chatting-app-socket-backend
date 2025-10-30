@@ -36,11 +36,10 @@ It handles real-time communication, message storage, user authentication, and ro
 ```
 chat-backend/
 ├── src/
-│   ├── controllers/
-│   ├── services/
-│   ├── models/
-│   ├── middleware/
-│   ├── sockets/
+│   ├── auth/
+│   ├── chat/
+│   ├── common/
+│   ├── user/
 │   ├── utils/
 │   ├── app.ts
 │   └── main.ts
